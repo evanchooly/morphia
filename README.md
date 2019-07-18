@@ -1,5 +1,1 @@
-# Morphia
-
-[![Build Status](https://travis-ci.org/mongodb/morphia.svg?branch=master)](https://travis-ci.org/mongodb/morphia)
-
-See [here](http://mongodb.github.io/morphia/) for the official documentation.
+This repo is only here for archival purposes and will be removed once Morphia 2.0 is done.  Please see the [main repo](https://github.com/MorphiaOrg/morphia) instead.
